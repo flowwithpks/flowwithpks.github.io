@@ -28,6 +28,7 @@ background:#333;
 }
 
 section{
+  display:block;
 padding:20px;
 margin:10px;
 background:white;
@@ -39,4 +40,5 @@ text-align:center;
 background:#333;
 color:white;
 padding:10px;
+
 }
